@@ -3,11 +3,11 @@
 The problem of efficiently simulating a Hamiltonian is one of the long standing problems in computational physics. Today, the problem of Hamiltonian simulation stands as one of the most impacting and significant contribution of quantum computers. Furthermore since it is a BQP-complete problem, devising any efficient classical algorithm for the same is believed to be intractable.
 
 Here, we plan to implement the following algorithms for Hamiltonian simulation:
-- [] Trotterization
-- [] Quantum Signal Processing
-- [] Quantum Walks
-- [] Qubitization
-- [] Quantum Singular Value Transformation
+- [ ] Trotterization
+- [ ] Quantum Signal Processing
+- [ ] Quantum Walks
+- [ ] Qubitization
+- [ ] Quantum Singular Value Transformation
 
 ### References
 
@@ -24,6 +24,6 @@ Here, we plan to implement the following algorithms for Hamiltonian simulation:
     
 1. Guang Hao Low and Isaac Chuang, [Hamiltonian Simulation by Qubitization](https://quantum-journal.org/papers/q-2019-07-12-163), Quantum 3, 163 (2019).
     
-1. Laura Clinton, Johannes Bausch & Toby Cubitt, [Hamiltonian simulation algorithms for near-term quantum hardware](https://www.nature.com/articles/s41467-021-25196-0), Nature Communications vol. 12, article: 4989 (2021).
+1. L. Clinton, J. Bausch and T. Cubitt, [Hamiltonian simulation algorithms for near-term quantum hardware](https://www.nature.com/articles/s41467-021-25196-0), Nature Communications volume 12, article 4989 (2021).
     
-1. Yulong Dong, K. Birgitta Whaley, and Lin Lin, [A Quantum Hamiltonian Simulation Benchmark](https://arxiv.org/pdf/2108.03747.pdf).
+1. Yulong Dong, K. Birgitta Whaley and Lin Lin, [A Quantum Hamiltonian Simulation Benchmark](https://arxiv.org/pdf/2108.03747.pdf).
