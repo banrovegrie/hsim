@@ -2,7 +2,7 @@
 
 The problem of efficiently simulating a Hamiltonian is one of the long standing problems in computational physics. Today, the problem of Hamiltonian simulation stands as one of the most impacting and significant contribution of quantum computers. Furthermore since it is a BQP-complete problem, devising any efficient classical algorithm for the same is believed to be intractable.
 
-In this project, we plan to study and analyse Hamiltoninan simulation using quantum walks. We will also compare the efficiency of these algorithms with other methods such as trotterization and quantum signal processing.
+This repository serves as a archive for _my endeavours in Fast Hamiltonian Simulation_.
 
 ### References
 
